@@ -37,4 +37,7 @@ group :test do
   gem 'rspec-rails'
   gem 'webrat'
   gem 'spork', '0.9.0.rc8'
+  gem 'autotest'
+  gem 'autotest-rails-pure'
+  gem 'autotest-growl'
 end
